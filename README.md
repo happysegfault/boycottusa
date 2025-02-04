@@ -36,6 +36,8 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colgate.svg/220px-Colgate.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kellogg%27s-Logo.svg/220px-Kellogg%27s-Logo.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tropicana_green_flat_logo.svg/200px-Tropicana_green_flat_logo.svg.png)
+![](https://www.lays.com/sites/lays.com/themes/lays/img/logo-lays.png?v=2)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Pringles_2021.svg/120px-Pringles_2021.svg.png)
 
 ## The good: Look for these logos when shopping
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
@@ -51,3 +53,4 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Nestl%C3%A9.svg/160px-Nestl%C3%A9.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Danone_spain.png/200px-Danone_spain.png)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Yoplait_logo.png/140px-Yoplait_logo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Activia_logo.png/200px-Activia_logo.png)
