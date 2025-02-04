@@ -18,3 +18,4 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [Steam](https://en.wikipedia.org/wiki/Steam_(service)) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/220px-Steam_2016_logo_black.svg.png) | [GOG (Good Old games](https://www.gog.com/) |
 | [Apple Music](https://en.wikipedia.org/wiki/Apple_Music) ![](https://en.wikipedia.org/wiki/Apple_Music) | [Spotify](https://open.spotify.com/) |
 | [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png) | [Scaleway](https://www.scaleway.com/) |
+| [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/100px-Visual_Studio_Icon_2022.svg.png) | [JetBrains](https://www.jetbrains.com/) |
