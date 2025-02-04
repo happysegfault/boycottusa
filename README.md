@@ -16,3 +16,4 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [Google Maps](https://en.wikipedia.org/wiki/Google_Maps) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Google_Maps_Logo.svg/270px-Google_Maps_Logo.svg.png) | [Organic Maps](https://organicmaps.app/) |
 | [Google Search](https://en.wikipedia.org/wiki/Google_Search) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/220px-Google_2015_logo.svg.png) | [Qwant](https://www.qwant.com/) |
 | [Steam](https://en.wikipedia.org/wiki/Steam_(service)) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/220px-Steam_2016_logo_black.svg.png) | [GOG (Good Old games](https://www.gog.com/) |
+| [Apple Music](https://en.wikipedia.org/wiki/Apple_Music) ![](https://en.wikipedia.org/wiki/Apple_Music) | [Spotify](https://open.spotify.com/) |
