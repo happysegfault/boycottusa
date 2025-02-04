@@ -25,3 +25,29 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [Apple Music](https://en.wikipedia.org/wiki/Apple_Music) ![](https://en.wikipedia.org/wiki/Apple_Music) | [Spotify](https://open.spotify.com/) |
 | [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png) | [Scaleway](https://www.scaleway.com/) |
 | [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/100px-Visual_Studio_Icon_2022.svg.png) | [JetBrains](https://www.jetbrains.com/) |
+
+## The bad: Avoid these logos when shopping
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Snickers_logo_%282000-2005%29.svg/220px-Snickers_logo_%282000-2005%29.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/220px-Mars_Incorporated_2019_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/en/8/81/Dove_Chocolates_logo.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Milky-Way-UK-Wrapper-Small.jpg/300px-Milky-Way-UK-Wrapper-Small.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Pampers_logo.svg/220px-Pampers_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colgate.svg/220px-Colgate.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kellogg%27s-Logo.svg/220px-Kellogg%27s-Logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tropicana_green_flat_logo.svg/200px-Tropicana_green_flat_logo.svg.png)
+
+## The good: Look for these logos when shopping
+![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dennree_Logo.png/175px-Dennree_Logo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/220px-L%27Or%C3%A9al_logo.svg.png)
+![](https://en.wikipedia.org/wiki/File:Wella_logo.svg)
+![](https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/aquafresh-redesign/zh_us/Aquafresh-US-Logo.png?auto=format)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Lindt_%26_Spr%C3%BCngli.svg/250px-Lindt_%26_Spr%C3%BCngli.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tony%27s_Chocolonely_01.jpg/220px-Tony%27s_Chocolonely_01.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Nestle_smarties_logo.png/200px-Nestle_smarties_logo.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Alpen_Logo.png/220px-Alpen_Logo.png)
+![](https://www.funny-frisch.de/assets/images/e/Logo-cdfedeba.svg)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Nestl%C3%A9.svg/160px-Nestl%C3%A9.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Danone_spain.png/200px-Danone_spain.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Yoplait_logo.png/140px-Yoplait_logo.png)
