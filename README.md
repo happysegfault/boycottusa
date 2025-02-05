@@ -9,7 +9,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 |  US product  | Alternatives |
 | ------------ | ------------ |
 | [Colgate](https://en.wikipedia.org/wiki/Colgate_(toothpaste)) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Colgate.svg/220px-Colgate.svg.png) | [Aquafresh](https://www.aquafresh.com/), [Zendium](https://en.wikipedia.org/wiki/Zendium) |
-| [Gillette](https://en.wikipedia.org/wiki/Gillette) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gillette.svg/220px-Gillette.svg.png) | [Bic](https://en.wikipedia.org/wiki/Bic_(company)) |
+| [Gillette](https://en.wikipedia.org/wiki/Gillette) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gillette.svg/220px-Gillette.svg.png) | [Bic](https://en.wikipedia.org/wiki/Bic_(company)), [Shavent](https://shavent.store/) |
 | [Palmolive](https://en.wikipedia.org/wiki/Palmolive_(brand)) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Palmolive_logo_2019.png/220px-Palmolive_logo_2019.png) | [L'Oreal](https://en.wikipedia.org/wiki/L%27Or%C3%A9al), [Wella](https://en.wikipedia.org/wiki/Wella) |
 | [Pampers](https://en.wikipedia.org/wiki/Pampers) ![](https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Pampers_logo.svg/220px-Pampers_logo.svg.png) | [BabyLove](https://babylovenappies.com.au/), [Libero🇳🇴](https://www.libero.no/), Elkos, [Royale](https://royalhijyen.com/en/) |
 | [M&M's](https://en.wikipedia.org/wiki/M%26M%27s) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/M%26M%27s_2022.svg/210px-M%26M%27s_2022.svg.png) | [Smarties (Nestle)](https://en.wikipedia.org/wiki/Smarties) |
