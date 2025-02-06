@@ -21,6 +21,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [Philadelphia](https://en.wikipedia.org/wiki/Philadelphia_Cream_Cheese) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Philadelphia_cheese_logo.png/200px-Philadelphia_cheese_logo.png) | Mascarpone |
 | [Tropicana (juice)](https://en.wikipedia.org/wiki/Tropicana_Products) ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tropicana_green_flat_logo.svg/200px-Tropicana_green_flat_logo.svg.png) | [Vinut](https://vinut.com.vn/), [Pfanner](https://www.pfanner.com/en/home/), Zoi, [Don Simon](https://donsimonuk.com/?lang=es), Eldorado, [Orangina](https://en.wikipedia.org/wiki/Orangina), Oasis |
 | [Kellogg's](https://en.wikipedia.org/wiki/Kellogg%27s) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kellogg%27s-Logo.svg/220px-Kellogg%27s-Logo.svg.png) | Nature's Path🇨🇦, Happy Belly, [Axa🇸🇪](https://www.axa.se/), Nestle, [Alpen](https://en.wikipedia.org/wiki/Alpen_(food)) |
+| [Kleenex (Kimberly-Clark)](https://en.wikipedia.org/wiki/Kleenex) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kleenex_2024.svg/200px-Kleenex_2024.svg.png) | [Kaboo](https://cabooproducts.com/) |
 | [Starbucks](https://en.wikipedia.org/wiki/Starbucks) ![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/150px-Starbucks_Corporation_Logo_2011.svg.png) | [Costa Coffee](https://en.wikipedia.org/wiki/Costa_Coffee) |
 | [Uber](https://en.wikipedia.org/wiki/Uber) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/220px-Uber_logo_2018.svg.png) | [Cabify](https://en.wikipedia.org/wiki/Cabify), [Bolt](https://en.wikipedia.org/wiki/Bolt_(company)), [URide🇨🇦](https://www.uride.co/), local taxi company |
 | [Google Maps](https://en.wikipedia.org/wiki/Google_Maps) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Google_Maps_Logo.svg/270px-Google_Maps_Logo.svg.png) | [Organic Maps](https://organicmaps.app/) |
@@ -47,6 +48,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/M%26M%27s_2022.svg/210px-M%26M%27s_2022.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Palmolive_logo_2019.png/220px-Palmolive_logo_2019.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Philadelphia_cheese_logo.png/200px-Philadelphia_cheese_logo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kleenex_2024.svg/200px-Kleenex_2024.svg.png)
 
 ## The good: Look for these logos when shopping
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
