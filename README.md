@@ -50,7 +50,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dennree_Logo.png/175px-Dennree_Logo.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/220px-L%27Or%C3%A9al_logo.svg.png)
-![](https://en.wikipedia.org/wiki/File:Wella_logo.svg)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Wella_logo.svg/150px-Wella_logo.svg.png)
 ![](https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/aquafresh-redesign/zh_us/Aquafresh-US-Logo.png?auto=format)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Lindt_%26_Spr%C3%BCngli.svg/250px-Lindt_%26_Spr%C3%BCngli.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tony%27s_Chocolonely_01.jpg/220px-Tony%27s_Chocolonely_01.jpg)
@@ -63,3 +63,4 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Activia_logo.png/200px-Activia_logo.png)
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Bic_%28company%29_Logo.svg/220px-Bic_%28company%29_Logo.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ritter_Sport_logo.svg/220px-Ritter_Sport_logo.svg.png)
+![](https://www.tajfoods.com/wp-content/uploads/2021/10/taj-foods.png)
