@@ -43,6 +43,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Pringles_2021.svg/120px-Pringles_2021.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gillette.svg/220px-Gillette.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BensOriginalLogo.svg/150px-BensOriginalLogo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/M%26M%27s_2022.svg/210px-M%26M%27s_2022.svg.png)
 
 ## The good: Look for these logos when shopping
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
