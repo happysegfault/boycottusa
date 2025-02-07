@@ -4,6 +4,9 @@ List of US products to boycott, and non-US alternatives.
 
 This was made in response to Trump's trade war against his allies. This is *not* meant as an insult or attack on US individuals, but as an initiative for Europeans, Canadians and other victims to get together and protect their own rights.
 
+**Disclaimer:** This is not a list of "bad" and "good" products.
+If you wish to avoid products made by companies that have other ethical/political issues, you may need to further prune the list based on information found elsewhere.
+
 **Contributations are very welcome!** Feel free to [open an issue](https://github.com/happysegfault/boycottusa/issues) if you have suggestions, or make a pull request.
 
 |  US product  | Alternatives |
