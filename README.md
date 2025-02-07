@@ -22,6 +22,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [Tropicana (juice)](https://en.wikipedia.org/wiki/Tropicana_Products) ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Tropicana_green_flat_logo.svg/200px-Tropicana_green_flat_logo.svg.png) | [Vinut](https://vinut.com.vn/), [Pfanner](https://www.pfanner.com/en/home/), Zoi, [Don Simon](https://donsimonuk.com/?lang=es), Eldorado, [Orangina](https://en.wikipedia.org/wiki/Orangina), Oasis |
 | [Kellogg's](https://en.wikipedia.org/wiki/Kellogg%27s) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kellogg%27s-Logo.svg/220px-Kellogg%27s-Logo.svg.png) | Nature's Path🇨🇦, Happy Belly, [Axa🇸🇪](https://www.axa.se/), Nestle, [Alpen](https://en.wikipedia.org/wiki/Alpen_(food)) |
 | [Kleenex (Kimberly-Clark)](https://en.wikipedia.org/wiki/Kleenex) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kleenex_2024.svg/200px-Kleenex_2024.svg.png) | [Kaboo](https://cabooproducts.com/) |
+| [Oral-B](https://en.wikipedia.org/wiki/Oral-B) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oral-B_Logo_2024.svg/220px-Oral-B_Logo_2024.svg.png) | [Philips](https://en.wikipedia.org/wiki/Philips) |
 | [Bose](https://en.wikipedia.org/wiki/Bose_Corporation) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bose_logo.svg/220px-Bose_logo.svg.png) | Sony, Focal, [Dali](https://en.wikipedia.org/wiki/Danish_Audiophile_Loudspeaker_Industries) |
 | [HP](https://en.wikipedia.org/wiki/HP_Inc.) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/130px-HP_logo_2012.svg.png)<br>[Dell](https://en.wikipedia.org/wiki/Dell) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/140px-Dell_logo_2016.svg.png) | Asus, Acer, Lenovo, Tuxedo |
 | [Meta Quest](https://en.wikipedia.org/wiki/Meta_Quest) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/260px-Meta_Platforms_Inc._logo.svg.png) | HTC Vive, [Varjo](https://en.wikipedia.org/wiki/Varjo) |
@@ -56,6 +57,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/130px-HP_logo_2012.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/140px-Dell_logo_2016.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/260px-Meta_Platforms_Inc._logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oral-B_Logo_2024.svg/220px-Oral-B_Logo_2024.svg.png)
 
 ## The good: Look for these logos when shopping
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
@@ -78,3 +80,4 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/250px-Sony_logo.svg.png)
 ![](https://en.wikipedia.org/wiki/Danish_Audiophile_Loudspeaker_Industries)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ASUS_Logo.svg/250px-ASUS_Logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Philips_logo_new.svg/220px-Philips_logo_new.svg.png)
