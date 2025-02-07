@@ -24,6 +24,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [Kleenex (Kimberly-Clark)](https://en.wikipedia.org/wiki/Kleenex) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kleenex_2024.svg/200px-Kleenex_2024.svg.png) | [Kaboo](https://cabooproducts.com/) |
 | [Bose](https://en.wikipedia.org/wiki/Bose_Corporation) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bose_logo.svg/220px-Bose_logo.svg.png) | Sony, Focal, [Dali](https://en.wikipedia.org/wiki/Danish_Audiophile_Loudspeaker_Industries) |
 | [HP](https://en.wikipedia.org/wiki/HP_Inc.) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/130px-HP_logo_2012.svg.png)<br>[Dell](https://en.wikipedia.org/wiki/Dell) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/140px-Dell_logo_2016.svg.png) | Asus, Acer, Lenovo, Tuxedo |
+| [Meta Quest](https://en.wikipedia.org/wiki/Meta_Quest) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/260px-Meta_Platforms_Inc._logo.svg.png) | HTC Vive, [Varjo](https://en.wikipedia.org/wiki/Varjo) |
 | [Starbucks](https://en.wikipedia.org/wiki/Starbucks) ![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/150px-Starbucks_Corporation_Logo_2011.svg.png) | [Costa Coffee](https://en.wikipedia.org/wiki/Costa_Coffee) |
 | [Uber](https://en.wikipedia.org/wiki/Uber) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/220px-Uber_logo_2018.svg.png) | [Cabify](https://en.wikipedia.org/wiki/Cabify), [Bolt](https://en.wikipedia.org/wiki/Bolt_(company)), [URide🇨🇦](https://www.uride.co/), local taxi company |
 | [Google Maps](https://en.wikipedia.org/wiki/Google_Maps) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Google_Maps_Logo.svg/270px-Google_Maps_Logo.svg.png) | [Organic Maps](https://organicmaps.app/) |
@@ -54,6 +55,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bose_logo.svg/220px-Bose_logo.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/130px-HP_logo_2012.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dell_logo_2016.svg/140px-Dell_logo_2016.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/260px-Meta_Platforms_Inc._logo.svg.png)
 
 ## The good: Look for these logos when shopping
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
