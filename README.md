@@ -39,7 +39,7 @@ This was made in response to Trump's trade war against his allies. This is *not*
 | [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png) | [Scaleway](https://www.scaleway.com/) |
 | [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/100px-Visual_Studio_Icon_2022.svg.png) | [JetBrains](https://www.jetbrains.com/) |
 
-## The bad: Avoid these logos when shopping
+## US Product logos: Avoid these logos when shopping
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Snickers_logo_%282000-2005%29.svg/220px-Snickers_logo_%282000-2005%29.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mars_Incorporated_2019_logo.svg/220px-Mars_Incorporated_2019_logo.svg.png)
@@ -63,7 +63,8 @@ This was made in response to Trump's trade war against his allies. This is *not*
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/260px-Meta_Platforms_Inc._logo.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oral-B_Logo_2024.svg/220px-Oral-B_Logo_2024.svg.png)
 
-## The good: Look for these logos when shopping
+## Alternatives: Look for these logos when shopping
+
 ![](https://olddutchfoods.com/wp-content/uploads/2020/10/logo.svg)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dennree_Logo.png/175px-Dennree_Logo.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/220px-L%27Or%C3%A9al_logo.svg.png)
